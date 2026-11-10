@@ -1,0 +1,13 @@
+
+# CMake build directories
+build/
+build-*/
+
+# Generated catalog
+catalog.txt
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
